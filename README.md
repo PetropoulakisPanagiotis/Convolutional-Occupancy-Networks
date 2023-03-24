@@ -1,5 +1,5 @@
 ## Convolutional Occupancy Networks
-You can find my seminar report and presentation about Convolutional-Occupancy-Networks publication
+You can find my seminar report and presentation about Convolutional-Occupancy-Networks publication. The work is explained in detail and the key controbutions are presented in an very intuitive way. 
 
 <p align="center">
 <img src="image.png" width="550px" height="450px"> 
