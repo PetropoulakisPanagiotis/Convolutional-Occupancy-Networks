@@ -2,7 +2,7 @@
 You can find my seminar report and presentation about "Convolutional Occupancy Networks" publication. The work is explained in detail and the key contributions are presented in quite an intuitive way. 
 
 <p align="center">
-<img src="image.png" width="4500px" height="600px"> 
+<img src="image.png" width="2500px" height="300px"> 
 </p>
 <br /> 
 
